@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was developed as part of the coursework for DS3000 Foundations of Data Science at Northeastern University. Our team used the unofficial 2018 election data from the MIT Election Data and Science Lab to apply data science techniques on 'real-world' datasets. The primary goal of this project was to identify the most significant demographics affecting election outcomes.
+This project was developed as part of the DS3000 Foundations of Data Science coursework at Northeastern University. Our team utilized the unofficial 2018 election data from the MIT Election Data and Science Lab to apply data science techniques to 'real-world' datasets. The primary goal of this project was to identify the demographics most significantly affecting election outcomes. This involved training models to determine whether a county was a 'Swing' county, defined as having a 5% or less difference between Democratic and Republican votes. The most important features identified during model training were deemed the most significant demographics affecting election outcomes.
 
 ## Data Source
 
