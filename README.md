@@ -33,10 +33,11 @@ This project requires Python 3.x and the following libraries:
 pip install numpy pandas scikit-learn matplotlib seaborn tqdm plotly statsmodels requests
 ```
 ## Results
+Our results for this project can be seen in the [presentation board](temp).
 
 ## Team Members
 - [Kai Webber](https://github.com/Waikebber)
-- [Max Saenz](https://github.com/maxsaenz)
+- [Maximus Saenz](https://github.com/maxsaenz)
 - [Micheal Baraty](https://github.com/mbaraty)
 - [Nathan Parker](https://github.com/natejparker)
   
